@@ -1,0 +1,367 @@
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.SuggestedBindingRedirects.cache
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.EasyMode.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.GameScreen.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Admin\Downloads\Compressed\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+D:\CP214\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.SuggestedBindingRedirects.cache
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.EasyMode.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.GameScreen.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+D:\CP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.EasyMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.GameScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\ProjectCP214(สำรอง) - Copy\ProjectCP214\obj\Debug\ProjectCP214.pdb
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Sum.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.PlayerScore.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.PlayerScore.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Sum.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.PlayerScore.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Sum.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Onjung\Downloads\ProjectFile\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.PlayerScore.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Sum.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Onjung\Downloads\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.config
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\ZstdNet.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\MySql.Data.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.HardMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.NormalMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.PlayerScore.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Sum.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.ThxScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.SelectMode.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.WelcomeScreen.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.CopyComplete
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.pdb
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive - Srinakharinwirot University\University\Year 2\Term 2\CP214\Project 2\จากเพื่อน\ProjectCP2141\ProjectCP214\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Option.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\Interop.WMPLib.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\AxInterop.WMPLib.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\Interop.WMPLib.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\AxInterop.WMPLib.dll
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.csproj.ResolveComReference.cache
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.Option.resources
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.exe.manifest
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\bin\Debug\ProjectCP214.application
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.exe.manifest
+D:\Cloud\OneDrive - Srinakharinwirot University\CP214Project\ProjectFile\ProjectCP214\ProjectCP214\obj\Debug\ProjectCP214.application
