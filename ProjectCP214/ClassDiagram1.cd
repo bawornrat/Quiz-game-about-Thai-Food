@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectCP214.WelcomeScreen">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAUAACAAEQAAQACACAQGAEBMAAAgAEAAAAAAgAA=</HashCode>
+      <FileName>WelcomeScreen.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SelectMode" />
+      <Property Name="Option" />
+      <Property Name="ThxScreen" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectCP214.ThxScreen">
+    <Position X="7" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThxScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectCP214.Sum">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAQQAAACAgAAICAQCAUAEQACgAAAAACAAAIE=</HashCode>
+      <FileName>Sum.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PlayerScore" />
+      <Property Name="Option" />
+      <Property Name="ThxScreen" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectCP214.SelectMode">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAgBACAIARAAAACCCEACgUAEIABgAAAAwAAAAAA=</HashCode>
+      <FileName>SelectMode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="HardMode" />
+      <Property Name="NormalMode" />
+      <Property Name="Option" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectCP214.PlayerScore">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAQAAIAAAAAAAAAAACgECgAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectCP214.NormalMode">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAACiADyAJAAhAEACKCB+CAERAAD4hAAwAgAAAAAQ=</HashCode>
+      <FileName>NormalMode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Sum" />
+      <Property Name="Option" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectCP214.Option">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAABACAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectCP214.HardMode">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAACiADyAJAAhAEACKCB+CAERAAD4hAAwAgAAAAAY=</HashCode>
+      <FileName>HardMode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Sum" />
+      <Property Name="Option" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
